@@ -855,3 +855,4 @@ Request/Response 방식으로 구현하지 않았기 때문에 서비스가 더�
         **/
     }
 ```
+![image](https://user-images.githubusercontent.com/12531980/103842365-1c6d9100-50d9-11eb-81ca-3639a78d0776.png)
